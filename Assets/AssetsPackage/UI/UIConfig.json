@@ -1,0 +1,50 @@
+[
+  {
+    "uiType": "Top",
+    "path": "Assets/AssetsPackage/UI/Prefabs/Top.prefab",
+    "isWindow": true,
+    "uiLayer": "NormalLayer"
+  },
+  {
+    "uiType": "Bottom",
+    "path": "Assets/AssetsPackage/UI/Prefabs/Bottom.prefab",
+    "isWindow": true,
+    "uiLayer": "InfoLayer"
+  },
+  {
+    "uiType": "Mid",
+    "path": "Assets/AssetsPackage/UI/Prefabs/Mid.prefab",
+    "isWindow": true,
+    "uiLayer": "NormalLayer"
+  },
+  {
+    "uiType": "Tips",
+    "path": "Assets/AssetsPackage/UI/Prefabs/Tips.prefab",
+    "isWindow": true,
+    "uiLayer": "NormalLayer"
+  },
+  {
+    "uiType": "SelectRole",
+    "path": "Assets/AssetsPackage/UI/Prefabs/SelectRole.prefab",
+    "isWindow": true,
+    "uiLayer": "NormalLayer"
+  },
+  {
+    "uiType": "UILoadingView",
+    "path": "Assets/AssetsPackage/UI/Prefabs/UILoadingView.prefab",
+    "isWindow": false,
+    "uiLayer": "NormalLayer"
+  },
+  {
+    "uiType": "SocialContact",
+    "path": "Assets/AssetsPackage/UI/Prefabs/SocialContact.prefab",
+    "isWindow": true,
+    "uiLayer": "NormalLayer"
+  },
+  {
+    "uiType": "PersonalMsgView",
+    "path": "Assets/AssetsPackage/UI/Prefabs/PersonalMsgView.prefab",
+    "isWindow": true,
+    "uiLayer": "NormalLayer"
+  }
+]
